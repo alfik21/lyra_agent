@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+# aktywacja środowiska
+source "$HOME/lyra_agent/venv/bin/activate"
+
+# poprawny interpreter z venv
+PYTHON="$HOME/lyra_agent/venv/bin/python"
+
+# uruchomienie pełnego agenta
+exec "$PYTHON" "$HOME/lyra_agent/agent.py" "$@"

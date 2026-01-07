@@ -1,0 +1,782 @@
+[
+  {
+    "ts": "2026-01-03T17:09:50",
+    "action": "start_file",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "type:tekstowy"
+  },
+  {
+    "ts": "2026-01-03T17:09:50",
+    "action": "append_end",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-03T17:09:51",
+    "action": "prepend",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-03T17:09:51",
+    "action": "insert_middle",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-03T17:09:52",
+    "action": "insert_line",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-03T17:09:52",
+    "action": "hash_line",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-03T17:09:52",
+    "action": "hash_range",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "1-3"
+  },
+  {
+    "ts": "2026-01-03T17:09:53",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:35"
+  },
+  {
+    "ts": "2026-01-03T17:10:41",
+    "action": "append_end",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-03T17:10:42",
+    "action": "prepend",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-03T17:10:42",
+    "action": "insert_middle",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-03T17:10:43",
+    "action": "insert_line",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-03T17:10:43",
+    "action": "hash_line",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-03T17:10:43",
+    "action": "hash_range",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "1-3"
+  },
+  {
+    "ts": "2026-01-03T17:10:44",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:69"
+  },
+  {
+    "ts": "2026-01-03T17:12:03",
+    "action": "append_end",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-03T17:12:03",
+    "action": "prepend",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-03T17:12:04",
+    "action": "insert_middle",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-03T17:12:04",
+    "action": "insert_line",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-03T17:12:04",
+    "action": "hash_line",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-03T17:12:05",
+    "action": "hash_range",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "1-3"
+  },
+  {
+    "ts": "2026-01-03T17:12:05",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:103"
+  },
+  {
+    "ts": "2026-01-04T01:21:53",
+    "action": "append_end",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-04T01:21:53",
+    "action": "prepend",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-04T01:21:54",
+    "action": "insert_middle",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-04T01:21:54",
+    "action": "insert_line",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T01:21:55",
+    "action": "hash_line",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T01:21:55",
+    "action": "hash_range",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "1-3"
+  },
+  {
+    "ts": "2026-01-04T01:21:55",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:137"
+  },
+  {
+    "ts": "2026-01-04T01:24:09",
+    "action": "start_file",
+    "path": "/home/tomek/lyra_agent/plik_test.sh",
+    "detail": "type:bash"
+  },
+  {
+    "ts": "2026-01-04T01:24:09",
+    "action": "start_file",
+    "path": "/home/tomek/lyra_agent/plik_test2.py",
+    "detail": "type:python"
+  },
+  {
+    "ts": "2026-01-04T01:24:10",
+    "action": "append_end",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-04T01:24:10",
+    "action": "prepend",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-04T01:24:11",
+    "action": "insert_middle",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-04T01:24:11",
+    "action": "insert_line",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T01:24:11",
+    "action": "hash_line",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T01:24:12",
+    "action": "hash_range",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "1-3"
+  },
+  {
+    "ts": "2026-01-04T01:24:12",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:171"
+  },
+  {
+    "ts": "2026-01-04T01:27:13",
+    "action": "read",
+    "path": "/etc/passwd",
+    "detail": "bytes:3906"
+  },
+  {
+    "ts": "2026-01-04T01:27:55",
+    "action": "read",
+    "path": "/etc/profile",
+    "detail": "bytes:582"
+  },
+  {
+    "ts": "2026-01-04T01:33:04",
+    "action": "append_end",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-04T01:33:04",
+    "action": "prepend",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-04T01:33:05",
+    "action": "insert_middle",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:9"
+  },
+  {
+    "ts": "2026-01-04T01:33:05",
+    "action": "insert_line",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T01:33:06",
+    "action": "hash_line",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T01:33:06",
+    "action": "hash_range",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "1-3"
+  },
+  {
+    "ts": "2026-01-04T01:33:06",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/plik_test.txt",
+    "detail": "bytes:205"
+  },
+  {
+    "ts": "2026-01-04T01:39:15",
+    "action": "start_file",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "type:tekstowy"
+  },
+  {
+    "ts": "2026-01-04T01:39:16",
+    "action": "append_end",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T01:39:16",
+    "action": "prepend",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T01:39:17",
+    "action": "insert_middle",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T01:39:17",
+    "action": "insert_line",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T01:39:17",
+    "action": "hash_line",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T01:39:18",
+    "action": "hash_range",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "1-3"
+  },
+  {
+    "ts": "2026-01-04T01:39:18",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:11"
+  },
+  {
+    "ts": "2026-01-04T01:55:01",
+    "action": "append_end",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T01:55:01",
+    "action": "prepend",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T01:55:02",
+    "action": "insert_middle",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T01:55:02",
+    "action": "insert_line",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T01:55:03",
+    "action": "hash_line",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T01:55:03",
+    "action": "hash_range",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "1-3"
+  },
+  {
+    "ts": "2026-01-04T01:55:03",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:21"
+  },
+  {
+    "ts": "2026-01-04T01:56:03",
+    "action": "append_end",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T01:56:03",
+    "action": "prepend",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T01:56:04",
+    "action": "insert_middle",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T01:56:04",
+    "action": "insert_line",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T01:56:04",
+    "action": "hash_line",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T01:56:05",
+    "action": "hash_range",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "1-3"
+  },
+  {
+    "ts": "2026-01-04T01:56:05",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:31"
+  },
+  {
+    "ts": "2026-01-04T01:56:52",
+    "action": "append_end",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T01:56:52",
+    "action": "prepend",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T01:56:52",
+    "action": "insert_middle",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T01:56:53",
+    "action": "insert_line",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T01:56:53",
+    "action": "hash_line",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T01:56:54",
+    "action": "hash_range",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "1-3"
+  },
+  {
+    "ts": "2026-01-04T01:56:54",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:41"
+  },
+  {
+    "ts": "2026-01-04T02:08:31",
+    "action": "append_end",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T02:08:32",
+    "action": "prepend",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T02:08:32",
+    "action": "insert_middle",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T02:08:32",
+    "action": "insert_line",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T02:08:33",
+    "action": "hash_line",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T02:08:33",
+    "action": "hash_range",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "1-3"
+  },
+  {
+    "ts": "2026-01-04T02:08:34",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:51"
+  },
+  {
+    "ts": "2026-01-04T03:43:32",
+    "action": "append_end",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T03:43:33",
+    "action": "prepend",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T03:43:33",
+    "action": "insert_middle",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-04T03:43:33",
+    "action": "insert_line",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T03:43:34",
+    "action": "hash_line",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-04T03:43:34",
+    "action": "hash_range",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "1-3"
+  },
+  {
+    "ts": "2026-01-04T03:43:35",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:61"
+  },
+  {
+    "ts": "2026-01-04T05:13:48",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/plik.txt",
+    "detail": "bytes:11"
+  },
+  {
+    "ts": "2026-01-04T05:15:14",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/plik.txt",
+    "detail": "bytes:11"
+  },
+  {
+    "ts": "2026-01-04T05:15:18",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/plik.txt",
+    "detail": "bytes:11"
+  },
+  {
+    "ts": "2026-01-04T05:15:20",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/plik.txt",
+    "detail": "bytes:11"
+  },
+  {
+    "ts": "2026-01-04T05:16:15",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/plik.txt",
+    "detail": "bytes:11"
+  },
+  {
+    "ts": "2026-01-04T05:16:56",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/PamiecBiezaca.json",
+    "detail": "bytes:3445"
+  },
+  {
+    "ts": "2026-01-04T05:17:23",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/PamiecBiezaca.json",
+    "detail": "bytes:3445"
+  },
+  {
+    "ts": "2026-01-04T05:20:22",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/PamiecBiezaca.json",
+    "detail": "bytes:3445"
+  },
+  {
+    "ts": "2026-01-04T05:22:18",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/PamiecBiezaca.json",
+    "detail": "bytes:3445"
+  },
+  {
+    "ts": "2026-01-04T05:22:49",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/PamiecBiezaca.json",
+    "detail": "bytes:3445"
+  },
+  {
+    "ts": "2026-01-04T05:23:05",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/PamiecBiezaca.json",
+    "detail": "bytes:3445"
+  },
+  {
+    "ts": "2026-01-04T05:23:26",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/PamiecBiezaca.json",
+    "detail": "bytes:3445"
+  },
+  {
+    "ts": "2026-01-04T05:25:47",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/AGENTS.md",
+    "detail": "bytes:2166"
+  },
+  {
+    "ts": "2026-01-04T05:27:38",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/AGENTS.md",
+    "detail": "bytes:2166"
+  },
+  {
+    "ts": "2026-01-04T05:28:26",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/AGENTS.md",
+    "detail": "bytes:2166"
+  },
+  {
+    "ts": "2026-01-04T05:32:58",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T05:36:03",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/AGENTS.md",
+    "detail": "bytes:2166"
+  },
+  {
+    "ts": "2026-01-04T05:36:46",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T05:37:53",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T05:50:10",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T05:54:39",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T05:58:33",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T05:59:41",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T06:01:03",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T06:01:45",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T06:01:52",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T06:04:42",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T06:05:26",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T06:06:32",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T06:08:25",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T06:09:09",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T06:16:08",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-04T06:24:39",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/raddiowe/ca\u0142a moja lyra.txt",
+    "detail": "cut:1000000"
+  },
+  {
+    "ts": "2026-01-06T00:04:09",
+    "action": "append_end",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-06T00:04:09",
+    "action": "prepend",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-06T00:04:10",
+    "action": "insert_middle",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:3"
+  },
+  {
+    "ts": "2026-01-06T00:04:11",
+    "action": "insert_line",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-06T00:04:11",
+    "action": "hash_line",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "line:2"
+  },
+  {
+    "ts": "2026-01-06T00:04:12",
+    "action": "hash_range",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "1-3"
+  },
+  {
+    "ts": "2026-01-06T00:04:12",
+    "action": "read",
+    "path": "/home/tomek/lyra_agent/test_runner_file.txt",
+    "detail": "bytes:71"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "key": "FILE_READ",
+    "description": "Odczytaj zawartość wskazanego pliku.",
+    "added_at": "2026-01-04T22:35:34.483731"
+  },
+  {
+    "key": "FILE_READ_SUMMARY",
+    "description": "Przeczytaj i podsumuj plik.",
+    "added_at": "2026-01-04T22:35:34.483854"
+  },
+  {
+    "key": "FILE_READ_SUMMARY_SHORT",
+    "description": "Podsumuj plik krótko.",
+    "added_at": "2026-01-04T22:35:34.484098"
+  },
+  {
+    "key": "FILE_READ_SUMMARY_LONG",
+    "description": "Podsumuj plik szczegółowo.",
+    "added_at": "2026-01-04T22:35:34.484296"
+  },
+  {
+    "key": "LAST_FILE_SUMMARY",
+    "description": "Opisz ostatnio otwarty plik.",
+    "added_at": "2026-01-04T22:35:34.484494"
+  },
+  {
+    "key": "FILE_EDIT",
+    "description": "Zmień, dodaj lub zahaszuj linie w pliku.",
+    "added_at": "2026-01-04T22:35:34.484696"
+  },
+  {
+    "key": "DISK_DIAG",
+    "description": "Sprawdź dyski i partycje.",
+    "added_at": "2026-01-04T22:35:34.484903"
+  },
+  {
+    "key": "NET_INFO",
+    "description": "Pokaż informacje o połączeniu sieciowym.",
+    "added_at": "2026-01-04T22:35:34.485057"
+  },
+  {
+    "key": "NET_DIAG",
+    "description": "Skanuj sieć w celu diagnozy.",
+    "added_at": "2026-01-04T22:35:34.485218"
+  },
+  {
+    "key": "NET_FIX",
+    "description": "Napraw połączenie sieciowe.",
+    "added_at": "2026-01-04T22:35:34.485378"
+  },
+  {
+    "key": "AUDIO_DIAG",
+    "description": "Przeprowadź diagnostykę audio.",
+    "added_at": "2026-01-04T22:35:34.485514"
+  },
+  {
+    "key": "AUDIO_FIX",
+    "description": "Napraw dźwięk lub mikrofon.",
+    "added_at": "2026-01-04T22:35:34.485650"
+  },
+  {
+    "key": "SYSTEM_DIAG",
+    "description": "Przeprowadź diagnozę systemu.",
+    "added_at": "2026-01-04T22:35:34.485791"
+  },
+  {
+    "key": "SYSTEM_FIX",
+    "description": "Napraw problemy systemowe.",
+    "added_at": "2026-01-04T22:35:34.485940"
+  },
+  {
+    "key": "AUTO_OPTIMIZE",
+    "description": "Przeprowadź automatyczną optymalizację.",
+    "added_at": "2026-01-04T22:35:34.486092"
+  },
+  {
+    "key": "APP_GUARD",
+    "description": "Pilnuj procesu lub aplikacji.",
+    "added_at": "2026-01-04T22:35:34.486299"
+  },
+  {
+    "key": "APP_CONTROL",
+    "description": "Uruchom/zatrzymaj aplikację.",
+    "added_at": "2026-01-04T22:35:34.486479"
+  },
+  {
+    "key": "LOG_ANALYZE",
+    "description": "Przeanalizuj logi systemowe.",
+    "added_at": "2026-01-04T22:35:34.486647"
+  },
+  {
+    "key": "DESKTOP_DIAG",
+    "description": "Zdiagnozuj problem pulpitu/Cinnamon.",
+    "added_at": "2026-01-04T22:35:34.486810"
+  },
+  {
+    "key": "COMMAND_LIST",
+    "description": "Pokaż listę komend Lyry.",
+    "added_at": "2026-01-04T22:35:34.486982"
+  },
+  {
+    "key": "INTERNET_SEARCH",
+    "description": "Wykonaj wyszukiwanie w sieci.",
+    "added_at": "2026-01-04T22:35:34.487154"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "last_seen": "2025-12-28T14:46:15.945337",
+  "kernel": "Linux tomek-Z390-GAMING-SLI 6.14.0-37-generic #37~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Nov 20 10:25:38 UTC 2 x86_64 x86_64 x86_64 GNU/Linux\n",
+  "os": "NAME=\"Linux Mint\"\nVERSION=\"22.2 (Zara)\"\nID=linuxmint\nID_LIKE=\"ubuntu debian\"\nPRETTY_NAME=\"Linux Mint 22.2\"\nVERSION_ID=\"22.2\"\nHOME_URL=\"https://www.linuxmint.com/\"\nSUPPORT_URL=\"https://forums.linuxmint.com/\"\nBUG_REPORT_URL=\"http://linuxmint-troubleshooting-guide.readthedocs.io/en/latest/\"\nPRIVACY_POLICY_URL=\"https://www.linuxmint.com/\"\nVERSION_CODENAME=zara\nUBUNTU_CODENAME=noble\n",
+  "session": "x11",
+  "last_system_cmd": "cinnamon --replace --display=:0 & disown",
+  "last_system_output": "/bin/sh: 1: disown: not found\n\n(cinnamon:1731688): mutter-WARNING **: 23:10:30.289: Failed to create backend: Could not take control: GDBus.Error:System.Error.EBUSY: Device or resource busy\n",
+  "last_tool": "APP_GUARD",
+  "last_tool_arg": "cinnamon auto",
+  "last_tool_output": "⚠️ Proces 'cinnamon auto' nie działa – uruchamiam ponownie...\n❌ Nie udało się uruchomić cinnamon auto: [Errno 2] No such file or directory: 'cinnamon auto'\n\n🛡️ APP_GUARD zakończył kontrolę.",
+  "last_autocontext": "tmux_screen",
+  "last_autocontext_time": "2025-12-22T13:46:53.161889",
+  "network": "DIAG_DONE"
+}

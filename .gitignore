@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtualenv
+venv/
+.venv/
+
+# Models / weights
+models/
+*.gguf
+*.bin
+*.safetensors
+
+# Cache
+.cache/
+.huggingface/
+llama.cpp/build*
+llama.cpp/build-vulkan*
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+
+
+# --- ABSOLUTNIE NIGDY W REPO ---
+config.json
+adapter_training/apiopenkey
+raddiowe/*.txt
+raddiowe/gemini.txt
+**/*api*key*
+**/*secret*

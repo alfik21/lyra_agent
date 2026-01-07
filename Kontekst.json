@@ -1,0 +1,730 @@
+[
+  {
+    "timestamp": "2026-01-04T04:59:51.286620",
+    "tresc": "gdzie jestem"
+  },
+  {
+    "timestamp": "2026-01-04T05:01:41.259997",
+    "tresc": "wyswietl katalog"
+  },
+  {
+    "timestamp": "2026-01-04T05:01:53.453367",
+    "tresc": "pokaz katalog"
+  },
+  {
+    "timestamp": "2026-01-04T05:02:45.364026",
+    "tresc": "wyswietl katalog"
+  },
+  {
+    "timestamp": "2026-01-04T05:03:56.216138",
+    "tresc": "wyswietl katalog"
+  },
+  {
+    "timestamp": "2026-01-04T05:04:03.650923",
+    "tresc": "pokaz katalog"
+  },
+  {
+    "timestamp": "2026-01-04T05:04:26.109632",
+    "tresc": "pokaz zawartosc"
+  },
+  {
+    "timestamp": "2026-01-04T05:04:59.254934",
+    "tresc": "pokaz zawartosc tego katalogu ggzie sie znajduje teraz"
+  },
+  {
+    "timestamp": "2026-01-04T05:05:19.523007",
+    "tresc": "wylistuj"
+  },
+  {
+    "timestamp": "2026-01-04T05:05:33.971658",
+    "tresc": "pokaz"
+  },
+  {
+    "timestamp": "2026-01-04T05:09:51.166146",
+    "tresc": "pokaz"
+  },
+  {
+    "timestamp": "2026-01-04T05:09:55.951591",
+    "tresc": "pokaz zawartosc tego katalogu ggzie sie znajduje teraz"
+  },
+  {
+    "timestamp": "2026-01-04T05:09:59.673273",
+    "tresc": "pokaz zawartosc"
+  },
+  {
+    "timestamp": "2026-01-04T05:10:52.978544",
+    "tresc": "przeczytaj plik.txt"
+  },
+  {
+    "timestamp": "2026-01-04T05:11:20.048070",
+    "tresc": "pokaz plik.txt"
+  },
+  {
+    "timestamp": "2026-01-04T05:13:34.356169",
+    "tresc": "lyra przeczytaj plik.txt"
+  },
+  {
+    "timestamp": "2026-01-04T05:13:48.839481",
+    "tresc": "lyra przeczytaj plik.txt"
+  },
+  {
+    "timestamp": "2026-01-04T05:15:14.447301",
+    "tresc": "pokaz plik.txt"
+  },
+  {
+    "timestamp": "2026-01-04T05:15:18.287573",
+    "tresc": "pokaz plik.txt"
+  },
+  {
+    "timestamp": "2026-01-04T05:15:20.981659",
+    "tresc": "przeczytaj plik.txt"
+  },
+  {
+    "timestamp": "2026-01-04T05:16:15.330270",
+    "tresc": "pokaz plik.txt"
+  },
+  {
+    "timestamp": "2026-01-04T05:16:20.794083",
+    "tresc": "pokaz zawartosc"
+  },
+  {
+    "timestamp": "2026-01-04T05:16:56.588682",
+    "tresc": "pokaz PamiecBiezaca.json"
+  },
+  {
+    "timestamp": "2026-01-04T05:17:23.181675",
+    "tresc": "przeczytaj PamiecBiezaca.json"
+  },
+  {
+    "timestamp": "2026-01-04T05:17:37.116555",
+    "tresc": "naucz sie PamiecBiezaca.json"
+  },
+  {
+    "timestamp": "2026-01-04T05:17:57.531432",
+    "tresc": "przeczytaj PamiecBiezaca.json i podsumuj"
+  },
+  {
+    "timestamp": "2026-01-04T05:18:31.449581",
+    "tresc": "przeczytaj i podsumuj PamiecBiezaca.json"
+  },
+  {
+    "timestamp": "2026-01-04T05:18:45.092517",
+    "tresc": "przeczytaj i stresc PamiecBiezaca.json"
+  },
+  {
+    "timestamp": "2026-01-04T05:20:22.863583",
+    "tresc": "lyra przeczytaj i podsumuj PamiecBiezaca.json"
+  },
+  {
+    "timestamp": "2026-01-04T05:22:18.573381",
+    "tresc": "lyra przeczytaj i podsumuj PamiecBiezaca.json"
+  },
+  {
+    "timestamp": "2026-01-04T05:22:49.358214",
+    "tresc": "lyra przeczytaj i podsumuj PamiecBiezaca.json"
+  },
+  {
+    "timestamp": "2026-01-04T05:23:05.599607",
+    "tresc": "lyra przeczytaj i podsumuj PamiecBiezaca.json"
+  },
+  {
+    "timestamp": "2026-01-04T05:23:23.728462",
+    "tresc": "przeczytaj i stresc PamiecBiezaca.json"
+  },
+  {
+    "timestamp": "2026-01-04T05:23:26.750158",
+    "tresc": "przeczytaj i podsumuj PamiecBiezaca.json"
+  },
+  {
+    "timestamp": "2026-01-04T05:24:35.333041",
+    "tresc": "pokaz zawartosc"
+  },
+  {
+    "timestamp": "2026-01-04T05:25:47.384842",
+    "tresc": "przeczytaj i podsumuj AGENTS.md"
+  },
+  {
+    "timestamp": "2026-01-04T05:27:38.142863",
+    "tresc": "lyra przeczytaj i podsumuj AGENTS.md"
+  },
+  {
+    "timestamp": "2026-01-04T05:28:26.691736",
+    "tresc": "przeczytaj i podsumuj AGENTS.md"
+  },
+  {
+    "timestamp": "2026-01-04T05:29:20.652608",
+    "tresc": "przejdz do raddiowe"
+  },
+  {
+    "timestamp": "2026-01-04T05:29:35.289535",
+    "tresc": "pokaz"
+  },
+  {
+    "timestamp": "2026-01-04T05:30:39.915066",
+    "tresc": "przejdz do katalogu raddiowe"
+  },
+  {
+    "timestamp": "2026-01-04T05:35:44.165072",
+    "tresc": "lyra przeczytaj i podsumuj krotko AGENTS.md"
+  },
+  {
+    "timestamp": "2026-01-04T05:36:03.695407",
+    "tresc": "lyra przeczytaj AGENTS.md i podsumuj krotko"
+  },
+  {
+    "timestamp": "2026-01-04T22:56:37.060085",
+    "tresc": "pokaz katalog"
+  },
+  {
+    "timestamp": "2026-01-04T22:57:26.547109",
+    "tresc": "co dzisiaj robilismy"
+  },
+  {
+    "timestamp": "2026-01-04T23:00:03.998924",
+    "tresc": "przejdz na silnik llama"
+  },
+  {
+    "timestamp": "2026-01-04T23:00:27.114360",
+    "tresc": "uzyj silnik llama"
+  },
+  {
+    "timestamp": "2026-01-04T23:00:47.734388",
+    "tresc": "przejdz silnik llama"
+  },
+  {
+    "timestamp": "2026-01-04T23:00:58.762940",
+    "tresc": "przejdz na silnik llama"
+  },
+  {
+    "timestamp": "2026-01-04T23:01:33.701881",
+    "tresc": "zmien silnik na"
+  },
+  {
+    "timestamp": "2026-01-04T23:01:41.682843",
+    "tresc": "zmien silnik na llama"
+  },
+  {
+    "timestamp": "2026-01-04T23:01:59.836963",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-04T23:02:16.119302",
+    "tresc": "aco potrafisz?"
+  },
+  {
+    "timestamp": "2026-01-04T23:02:42.648257",
+    "tresc": "jakie masz komendy?"
+  },
+  {
+    "timestamp": "2026-01-04T23:13:07.935821",
+    "tresc": "jakie masz komendy?"
+  },
+  {
+    "timestamp": "2026-01-04T23:20:34.775343",
+    "tresc": "lyra status"
+  },
+  {
+    "timestamp": "2026-01-04T23:25:09.727090",
+    "tresc": "lyra status"
+  },
+  {
+    "timestamp": "2026-01-04T23:27:42.985609",
+    "tresc": "jak naprawic bład x"
+  },
+  {
+    "timestamp": "2026-01-04T23:29:00.503598",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-04T23:29:33.484589",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-04T23:29:46.502743",
+    "tresc": "jak naprawic bład x"
+  },
+  {
+    "timestamp": "2026-01-04T23:30:41.339059",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-04T23:30:55.642678",
+    "tresc": "stres 5"
+  },
+  {
+    "timestamp": "2026-01-04T23:31:23.510435",
+    "tresc": "lyra status"
+  },
+  {
+    "timestamp": "2026-01-04T23:31:40.508806",
+    "tresc": "stress 5"
+  },
+  {
+    "timestamp": "2026-01-04T23:31:44.179305",
+    "tresc": "lyra status"
+  },
+  {
+    "timestamp": "2026-01-04T23:31:56.355034",
+    "tresc": "stress 15"
+  },
+  {
+    "timestamp": "2026-01-04T23:33:04.036771",
+    "tresc": "stress 10"
+  },
+  {
+    "timestamp": "2026-01-04T23:34:02.047801",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-04T23:34:18.953245",
+    "tresc": "jak masz na imie?"
+  },
+  {
+    "timestamp": "2026-01-04T23:35:56.132580",
+    "tresc": "lyra status"
+  },
+  {
+    "timestamp": "2026-01-04T23:36:28.126153",
+    "tresc": "lyra status"
+  },
+  {
+    "timestamp": "2026-01-04T23:37:08.067680",
+    "tresc": "jak masz na imie?"
+  },
+  {
+    "timestamp": "2026-01-04T23:37:45.352578",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-04T23:38:07.933763",
+    "tresc": "jak naprawic bład x"
+  },
+  {
+    "timestamp": "2026-01-04T23:45:52.756750",
+    "tresc": "znajdz plik lyra"
+  },
+  {
+    "timestamp": "2026-01-04T23:46:44.310322",
+    "tresc": "znajdz plik lyra"
+  },
+  {
+    "timestamp": "2026-01-04T23:50:35.463079",
+    "tresc": ":state"
+  },
+  {
+    "timestamp": "2026-01-04T23:51:01.133648",
+    "tresc": "napisz 10 zdan o linuksie"
+  },
+  {
+    "timestamp": "2026-01-04T23:51:46.477516",
+    "tresc": "poszukaj plik lyra"
+  },
+  {
+    "timestamp": "2026-01-04T23:52:32.446259",
+    "tresc": "wykonaj"
+  },
+  {
+    "timestamp": "2026-01-04T23:52:59.465656",
+    "tresc": "gdzie jest plik lyra"
+  },
+  {
+    "timestamp": "2026-01-04T23:53:34.842643",
+    "tresc": "gdzie jest plik \"lyra\""
+  },
+  {
+    "timestamp": "2026-01-04T23:53:59.650127",
+    "tresc": "znajdz plik \"lyra\""
+  },
+  {
+    "timestamp": "2026-01-04T23:59:32.806081",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T00:00:05.171780",
+    "tresc": "stress 10"
+  },
+  {
+    "timestamp": "2026-01-05T00:02:14.178636",
+    "tresc": "lyra status"
+  },
+  {
+    "timestamp": "2026-01-05T00:02:19.401370",
+    "tresc": "lyra status"
+  },
+  {
+    "timestamp": "2026-01-05T00:03:31.637886",
+    "tresc": "stress 10"
+  },
+  {
+    "timestamp": "2026-01-05T00:05:01.220902",
+    "tresc": "lyra status"
+  },
+  {
+    "timestamp": "2026-01-05T00:05:33.337991",
+    "tresc": "lyra status"
+  },
+  {
+    "timestamp": "2026-01-05T00:06:53.159971",
+    "tresc": "lyra status"
+  },
+  {
+    "timestamp": "2026-01-05T00:06:57.398677",
+    "tresc": "lyra status"
+  },
+  {
+    "timestamp": "2026-01-05T00:08:07.517915",
+    "tresc": "stress 10"
+  },
+  {
+    "timestamp": "2026-01-05T00:08:21.561982",
+    "tresc": "stress 10"
+  },
+  {
+    "timestamp": "2026-01-05T00:19:54.930548",
+    "tresc": "lyra status"
+  },
+  {
+    "timestamp": "2026-01-05T00:20:00.719426",
+    "tresc": "lyra status"
+  },
+  {
+    "timestamp": "2026-01-05T00:20:53.677500",
+    "tresc": "stress 10"
+  },
+  {
+    "timestamp": "2026-01-05T00:21:09.765001",
+    "tresc": "stress 10"
+  },
+  {
+    "timestamp": "2026-01-05T00:21:34.620139",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T00:21:54.390230",
+    "tresc": "jak naprawic bład x"
+  },
+  {
+    "timestamp": "2026-01-05T00:35:10.587092",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T00:35:30.750437",
+    "tresc": "zmien silnik na llama"
+  },
+  {
+    "timestamp": "2026-01-05T00:35:37.510327",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T00:35:40.302233",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T00:36:02.228438",
+    "tresc": "co portafisz?"
+  },
+  {
+    "timestamp": "2026-01-05T00:36:21.268072",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T00:36:31.975633",
+    "tresc": "zmien silnik na ollama"
+  },
+  {
+    "timestamp": "2026-01-05T00:36:37.753902",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T00:36:49.582221",
+    "tresc": "co portafisz?"
+  },
+  {
+    "timestamp": "2026-01-05T00:36:57.847768",
+    "tresc": "zmien silnik na llama"
+  },
+  {
+    "timestamp": "2026-01-05T00:37:07.385288",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T00:46:30.376627",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T00:46:37.329608",
+    "tresc": "zmien silnik na llama"
+  },
+  {
+    "timestamp": "2026-01-05T00:46:42.664778",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T00:46:46.304468",
+    "tresc": "zmien silnik na llama"
+  },
+  {
+    "timestamp": "2026-01-05T00:46:50.342620",
+    "tresc": "zmien silnik na llama"
+  },
+  {
+    "timestamp": "2026-01-05T00:55:24.354177",
+    "tresc": "znajdz lyra-llama.service"
+  },
+  {
+    "timestamp": "2026-01-05T00:56:04.217801",
+    "tresc": "zmien silnik na ollama"
+  },
+  {
+    "timestamp": "2026-01-05T01:12:54.113263",
+    "tresc": "zmien silnik na llama"
+  },
+  {
+    "timestamp": "2026-01-05T01:12:59.958296",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T01:13:13.804244",
+    "tresc": "co portafisz?"
+  },
+  {
+    "timestamp": "2026-01-05T01:14:12.506268",
+    "tresc": "przetestujmy model"
+  },
+  {
+    "timestamp": "2026-01-05T01:15:37.139480",
+    "tresc": "sprawdz czy kozystasz z kart graficznych"
+  },
+  {
+    "timestamp": "2026-01-05T01:16:38.919178",
+    "tresc": "sprawdz czy kozystasz z kart graficznych amd"
+  },
+  {
+    "timestamp": "2026-01-05T01:21:17.941988",
+    "tresc": "omek@tomek-Z390-GAMING-SLI:~$ ps aux"
+  },
+  {
+    "timestamp": "2026-01-05T01:38:35.675796",
+    "tresc": "pip install -U transformers datasets peft accelerate bitsandbytes sentencepiece"
+  },
+  {
+    "timestamp": "2026-01-05T01:39:06.690269",
+    "tresc": "pip install -U transformers datasets peft accelerate bitsandbytes sentencepiece"
+  },
+  {
+    "timestamp": "2026-01-05T01:39:35.643706",
+    "tresc": "konsola"
+  },
+  {
+    "timestamp": "2026-01-05T01:40:11.976456",
+    "tresc": ":bash"
+  },
+  {
+    "timestamp": "2026-01-05T01:58:06.785471",
+    "tresc": ":bash"
+  },
+  {
+    "timestamp": "2026-01-05T02:03:09.582168",
+    "tresc": ":bash"
+  },
+  {
+    "timestamp": "2026-01-05T02:37:29.418705",
+    "tresc": ":bash"
+  },
+  {
+    "timestamp": "2026-01-05T02:37:37.130166",
+    "tresc": ":bash"
+  },
+  {
+    "timestamp": "2026-01-05T03:04:09.521362",
+    "tresc": "pokaz"
+  },
+  {
+    "timestamp": "2026-01-05T03:07:32.741610",
+    "tresc": ":bash"
+  },
+  {
+    "timestamp": "2026-01-05T13:01:59.254906",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T13:02:31.186778",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T15:19:24.758491",
+    "tresc": "powiedz cos ciekawego"
+  },
+  {
+    "timestamp": "2026-01-05T15:21:13.674227",
+    "tresc": "2 plus 2 ile jest?"
+  },
+  {
+    "timestamp": "2026-01-05T15:21:24.108185",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T15:22:22.947991",
+    "tresc": "lyra zmien silnik na llama"
+  },
+  {
+    "timestamp": "2026-01-05T15:22:46.971383",
+    "tresc": "powiedz ile masz lat"
+  },
+  {
+    "timestamp": "2026-01-05T15:23:01.459487",
+    "tresc": ":lyra"
+  },
+  {
+    "timestamp": "2026-01-05T15:23:10.187670",
+    "tresc": "powiedz ile masz lat"
+  },
+  {
+    "timestamp": "2026-01-05T15:23:30.155839",
+    "tresc": "zjebka"
+  },
+  {
+    "timestamp": "2026-01-05T15:23:51.211694",
+    "tresc": "zmien silnik na llama"
+  },
+  {
+    "timestamp": "2026-01-05T15:24:00.603582",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T15:24:29.619452",
+    "tresc": "uzyj model bielik"
+  },
+  {
+    "timestamp": "2026-01-05T15:24:53.259812",
+    "tresc": "uzyj bielik"
+  },
+  {
+    "timestamp": "2026-01-05T15:25:34.171608",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T15:25:52.475439",
+    "tresc": "uzyj bielik"
+  },
+  {
+    "timestamp": "2026-01-05T15:26:00.075676",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T15:26:13.835591",
+    "tresc": "lyra uzyj bielik"
+  },
+  {
+    "timestamp": "2026-01-05T15:26:18.620492",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T23:20:39.818929",
+    "tresc": "jestes"
+  },
+  {
+    "timestamp": "2026-01-05T23:21:16.318742",
+    "tresc": ":lyra"
+  },
+  {
+    "timestamp": "2026-01-05T23:21:20.735027",
+    "tresc": "jestes"
+  },
+  {
+    "timestamp": "2026-01-05T23:21:29.758761",
+    "tresc": "co tam"
+  },
+  {
+    "timestamp": "2026-01-05T23:22:00.578870",
+    "tresc": "lyra zyj bielik"
+  },
+  {
+    "timestamp": "2026-01-05T23:22:22.052293",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T23:24:38.032707",
+    "tresc": "lista modeli"
+  },
+  {
+    "timestamp": "2026-01-05T23:24:48.542968",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T23:25:23.855153",
+    "tresc": "zmien silnik na llama"
+  },
+  {
+    "timestamp": "2026-01-05T23:26:52.556013",
+    "tresc": "jestes?"
+  },
+  {
+    "timestamp": "2026-01-05T23:27:12.177430",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T23:49:19.659533",
+    "tresc": "stop llama"
+  },
+  {
+    "timestamp": "2026-01-05T23:49:33.413134",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T23:49:51.586399",
+    "tresc": "stop llama"
+  },
+  {
+    "timestamp": "2026-01-05T23:49:55.225964",
+    "tresc": "stop llama"
+  },
+  {
+    "timestamp": "2026-01-05T23:49:57.598596",
+    "tresc": "stop llama"
+  },
+  {
+    "timestamp": "2026-01-05T23:49:59.231100",
+    "tresc": "stop llama"
+  },
+  {
+    "timestamp": "2026-01-05T23:50:00.826452",
+    "tresc": "stop llama"
+  },
+  {
+    "timestamp": "2026-01-05T23:50:07.478816",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T23:50:57.870532",
+    "tresc": "status llama"
+  },
+  {
+    "timestamp": "2026-01-05T23:52:30.017359",
+    "tresc": "start llama"
+  },
+  {
+    "timestamp": "2026-01-05T23:52:35.832223",
+    "tresc": "status llama"
+  },
+  {
+    "timestamp": "2026-01-05T23:52:57.434548",
+    "tresc": "status llama"
+  },
+  {
+    "timestamp": "2026-01-05T23:53:18.560990",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T23:58:33.498012",
+    "tresc": "status"
+  },
+  {
+    "timestamp": "2026-01-05T23:59:16.917574",
+    "tresc": "jak sie masz?"
+  },
+  {
+    "timestamp": "2026-01-05T23:59:29.956730",
+    "tresc": "status"
+  }
+]

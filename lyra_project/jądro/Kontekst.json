@@ -1,0 +1,13 @@
+{
+  "aktualny_temat": "Budowa modułów jądra",
+  "ostatni_blad": "Brak",
+  "status_wybudzenia": "Pełny"
+}
+{
+  "###--- KONTEKST BIEŻĄCEJ SESJI ---###": "Dane ulotne, aktualne zadania i błędy do naprawienia teraz.",
+  "biezace_zadanie": "Implementacja wielopoziomowej pamięci agenta Lyra",
+  "status_terminala": "Aktywny",
+  "ostatni_blad_terminala": null,
+  "otwarte_pliki": ["agent.py", "jądro/zarzadca_pamieci.py"],
+  "aktywne_srodowisko": "Nobara Linux"
+}

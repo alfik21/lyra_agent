@@ -1,0 +1,12 @@
+{"instruction":"Wyjasnij blad","input":"ping: unknown host","output":"To znaczy, ze DNS nie dziala..."}
+{"instruction":"Zrob skrypt backupu","input":"bash","output":"#!/bin/bash\n tar -czvf backup.tar.gz /home"}
+{"instruction":"Sprawdz polaczenie z siecia","input":"brak internetu w systemie","output":"Sprawdz DNS, interfejs i trase: ip a; ip r; resolvectl status. Jesli DNS zly, ustaw 1.1.1.1."}
+{"instruction":"Napraw bledy w systemie","input":"aplikacje sie wywalaja","output":"Sprawdz logi: journalctl -xe --no-pager. Zidentyfikuj usluge i zrestartuj tylko to, co potrzebne."}
+{"instruction":"Wyjasnij komunikat","input":"Błąd: brak odpowiedzi (offline)","output":"To oznacza, ze model lokalny nie odpowiada albo brak polaczenia z backendem. Sprawdz stan silnika i logi."}
+{"instruction":"Zrob polecenie diagnostyczne","input":"sprawdz sterowniki GPU","output":"Uzyj: lspci -k | rg -i 'vga|3d|display' oraz lsmod | rg -i 'amdgpu|nvidia'."}
+{"instruction":"Wyjasnij bledy DNS","input":"Name or service not known","output":"To klasyczny blad DNS. Ustaw serwery DNS i sprawdz resolvectl status."}
+{"instruction":"Napraw konsolę Lyry","input":"konsola nie widzi wpisywanych znaków","output":"Skróć prompt w konsoli i upewnij się, że linia wejścia nie jest ucinana. Wymuś krótszy prefiks katalogu."}
+{"instruction":"Napraw komendy w konsoli","input":"Lyra wykonuje przypadkowe linie z odpowiedzi","output":"Akceptuj tylko linie zaczynające się od CMD: i ignoruj inne bloki kodu."}
+{"instruction":"Napraw błąd narzędzia","input":"TypeError: tool_SCAN_MODELS missing log","output":"Popraw wywołanie narzędzia: przekazuj log_event jako argument log."}
+{"instruction":"Diagnozuj adapter WWW","input":"Brak wyników wyszukiwania","output":"Sprawdź DNS, potem fallbacki: DDG API, Brave, Wikipedia. W razie timeoutu nie przerywaj całego flow."}
+{"instruction":"Napraw odpowiedzi Lyry","input":"Lyra wypisuje 'lyra_agent' zamiast odpowiedzi","output":"Usuń generowane śmieci i nie routuj takiej odpowiedzi do wykonania. Wymuś twarde reguły parsowania."}

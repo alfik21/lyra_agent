@@ -1,0 +1,35 @@
+{
+  "###--- INFORMACJA ---###": "Tu trafiają rzeczy z komendy 'zapamiętaj'.",
+  "sprzet": {
+    "systemy": ["Nobara", "Mint", "Kali"],
+    "monitory": "Dual Radeon Setup",
+    "krzeslo": "Potwierdzone, Lyra o nim pamięta"
+  },
+  "projekty": {
+    "radio": "DMR, FLRig, XML-RPC",
+    "vpn": "RedMini, Tailscale"
+  }
+}
+{
+  "###--- PAMIĘĆ DŁUGA: STAŁE FAKTY ---###": "Dane o sprzęcie, systemach i Twoich pomysłach.",
+  "sprzet": {
+    "monitory": "Dual Setup",
+    "karta_graficzna": "Dual Radeon",
+    "krzeslo": "Zapamiętane (element wyposażenia)",
+    "peryferia": ["myszka", "klawiatura", "pendrive", "glosniki"]
+  },
+  "konfiguracja_systemowa": {
+    "os": ["Nobara", "Mint", "Kali"],
+    "audio": "VBAN/PipeWire",
+    "siec": "Tailscale/RedMini VPN"
+  },
+  "radio_dmr": {
+    "soft": ["FLRig", "Ham Radio Deluxe"],
+    "standard": "DMR",
+    "interfejs": "XML-RPC"
+  },
+  "osobiste_tomka": {
+    "rola": "Operator / Przyjaciel / Twórca",
+    "ulubione_tematy": ["Informatyka", "Trading", "Ezoteryka", "Biohacking"]
+  }
+}

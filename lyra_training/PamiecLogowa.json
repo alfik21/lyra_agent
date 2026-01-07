@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2026-01-05T02:56:35.911367",
+    "modul": "bash_error",
+    "dane": "pip install llama.cpp\nERROR: Could not find a version that satisfies the requirement llama.cpp (from versions: none)\nERROR: No matching distribution found for llama.cpp"
+  },
+  {
+    "timestamp": "2026-01-05T02:58:56.460215",
+    "modul": "bash_error",
+    "dane": "llama-server -hf speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_llama-server -hf speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_0\n/bin/sh: 1: llama-server: not found"
+  },
+  {
+    "timestamp": "2026-01-05T02:59:45.444168",
+    "modul": "bash_error",
+    "dane": "llama-server -hf speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_0\n/bin/sh: 1: llama-server: not found"
+  },
+  {
+    "timestamp": "2026-01-05T02:59:58.505741",
+    "modul": "bash_error",
+    "dane": "sudo llama-server -hf speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_0\nsudo: llama-server: nie znaleziono polecenia"
+  },
+  {
+    "timestamp": "2026-01-05T03:00:44.006614",
+    "modul": "bash_error",
+    "dane": "/path/do/llama.cpp/llama-server -hf speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_0\n/bin/sh: 1: /path/do/llama.cpp/llama-server: not found"
+  },
+  {
+    "timestamp": "2026-01-05T03:01:20.335890",
+    "modul": "bash_error",
+    "dane": "sudo ls -l /path/do/llama.cpp/llama-server\nls: nie ma dostępu do '/path/do/llama.cpp/llama-server': Nie ma takiego pliku ani katalogu"
+  },
+  {
+    "timestamp": "2026-01-05T03:02:32.588784",
+    "modul": "bash_error",
+    "dane": "./llama-server -hf speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_0\n/bin/sh: 1: ./llama-server: not found"
+  },
+  {
+    "timestamp": "2026-01-05T03:03:10.675680",
+    "modul": "bash_error",
+    "dane": "./build/bin/llama-server -hf speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_0\n/bin/sh: 1: ./build/bin/llama-server: not found"
+  }
+]

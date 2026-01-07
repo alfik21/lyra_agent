@@ -1,0 +1,47 @@
+#!/usr/bin/env bash
+
+# --- ANIMACJA NEONOWA ---
+neon_anim() {
+    frames=("▂" "▃" "▄" "▅" "▆" "▇" "█" "▇" "▆" "▅" "▄" "▃")
+    for f in "${frames[@]}"; do
+        printf "\e[38;5;93m$f\e[0m"
+        sleep 0.05
+    done
+    echo ""
+}
+
+# --- STATUS SYSTEMU ---
+show_status() {
+    model=$(jq -r '.local_model' ~/lyra_agent/config.json)
+    mode=$(jq -r '.mode' ~/lyra_agent/agent_state.json 2>/dev/null || echo "unknown")
+
+    internet="❌ brak"
+    ping -c1 8.8.8.8 >/dev/null 2>&1 && internet="✅ jest"
+
+    ram=$(free -h | awk '/Pamięć:/ {print $3 "/" $2}')
+    swap=$(free -h | awk '/Wymiana:/ {print $3 "/" $2}')
+    cpu=$(lscpu | awk -F: '/Model name/ {print $2}' | sed 's/^ *//')
+    gpu=$(lspci | grep -Ei 'vga|3d|nvidia|amd' | sed 's/^ *//')
+
+    printf "\e[38;5;93m──────────────── SYSTEM STATUS ────────────────\e[0m\n"
+    printf "\e[38;5;45mModel:       \e[0m%s\n" "$model"
+    printf "\e[38;5;45mTryb:        \e[0m%s\n" "$mode"
+    printf "\e[38;5;45mInternet:    \e[0m%s\n" "$internet"
+    printf "\e[38;5;45mRAM:         \e[0m%s\n" "$ram"
+    printf "\e[38;5;45mSWAP:        \e[0m%s\n" "$swap"
+    printf "\e[38;5;45mCPU:         \e[0m%s\n" "$cpu"
+    printf "\e[38;5;45mGPU:         \e[0m%s\n" "$gpu"
+    printf "\e[38;5;93m──────────────────────────────────────────────\e[0m\n\n"
+}
+
+# --- BANNER ---
+printf "\e[38;5;93m▁▂▃▄▅▆▇█ \e[38;5;45mLYRA+\e[38;5;93m █▇▆▅▄▃▂▁\e[0m\n"
+neon_anim
+printf "\e[38;5;45m   Neo-Cyber AI Console  |  Fusion Engine v1.0\e[0m\n"
+printf "\e[38;5;93m──────────────────────────────────────────────────────\e[0m\n"
+
+show_status
+
+# --- START SILNIKA ---
+/home/tomek/lyra_agent/venv/bin/python3 /home/tomek/lyra_agent/agent.py "$@"
+

@@ -1,0 +1,106 @@
+[
+  {
+    "timestamp": "2026-01-05T02:54:43.430494",
+    "tresc": "llama-server -hf speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_0"
+  },
+  {
+    "timestamp": "2026-01-05T02:55:40.406546",
+    "tresc": "pip install llama.cpp"
+  },
+  {
+    "timestamp": "2026-01-05T02:55:55.794062",
+    "tresc": "brew install llama.cpp"
+  },
+  {
+    "timestamp": "2026-01-05T02:56:11.074250",
+    "tresc": ":bash"
+  },
+  {
+    "timestamp": "2026-01-05T02:56:34.241767",
+    "tresc": "pip install llama.cpp"
+  },
+  {
+    "timestamp": "2026-01-05T02:57:28.700375",
+    "tresc": "pip install llama-cpp-python"
+  },
+  {
+    "timestamp": "2026-01-05T02:58:35.164779",
+    "tresc": "# Load and run the model:"
+  },
+  {
+    "timestamp": "2026-01-05T02:58:56.459322",
+    "tresc": "llama-server -hf speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_llama-server -hf speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_0"
+  },
+  {
+    "timestamp": "2026-01-05T02:59:45.443290",
+    "tresc": "llama-server -hf speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_0"
+  },
+  {
+    "timestamp": "2026-01-05T02:59:58.492129",
+    "tresc": "sudo llama-server -hf speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_0"
+  },
+  {
+    "timestamp": "2026-01-05T03:00:44.002055",
+    "tresc": "/path/do/llama.cpp/llama-server -hf speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_0"
+  },
+  {
+    "timestamp": "2026-01-05T03:01:09.275269",
+    "tresc": "ls -l /path/do/llama.cpp/llama-server"
+  },
+  {
+    "timestamp": "2026-01-05T03:01:20.308409",
+    "tresc": "sudo ls -l /path/do/llama.cpp/llama-server"
+  },
+  {
+    "timestamp": "2026-01-05T03:01:42.891455",
+    "tresc": "find . -maxdepth 3 -type f -name \"llama-server\""
+  },
+  {
+    "timestamp": "2026-01-05T03:02:12.929765",
+    "tresc": "# Download pre-built binary from:"
+  },
+  {
+    "timestamp": "2026-01-05T03:02:15.931782",
+    "tresc": "# https://github.com/ggerganov/llama.cpp/releases"
+  },
+  {
+    "timestamp": "2026-01-05T03:02:31.005826",
+    "tresc": "# Load and run the model:"
+  },
+  {
+    "timestamp": "2026-01-05T03:02:32.587725",
+    "tresc": "./llama-server -hf speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_0"
+  },
+  {
+    "timestamp": "2026-01-05T03:03:09.442906",
+    "tresc": "# Load and run the model:"
+  },
+  {
+    "timestamp": "2026-01-05T03:03:10.674289",
+    "tresc": "./build/bin/llama-server -hf speakleash/Bielik-4.5B-v3.0-Instruct-GGUF:Q8_0"
+  },
+  {
+    "timestamp": "2026-01-05T03:03:29.229234",
+    "tresc": "ls -l ./build/bin/llama-server"
+  },
+  {
+    "timestamp": "2026-01-05T03:03:56.563031",
+    "tresc": "przejdz do katalogu lyra_agent"
+  },
+  {
+    "timestamp": "2026-01-05T05:05:29.081678",
+    "tresc": "python train_qlora_lyra.py"
+  },
+  {
+    "timestamp": "2026-01-05T05:07:20.319706",
+    "tresc": "bash"
+  },
+  {
+    "timestamp": "2026-01-05T05:07:27.177651",
+    "tresc": ":bash"
+  },
+  {
+    "timestamp": "2026-01-05T05:07:53.536252",
+    "tresc": ":bash"
+  }
+]

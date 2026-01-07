@@ -1,0 +1,252 @@
+[
+  {
+    "time": "2026-01-07T03:43:31.494209",
+    "user": "ollama off",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T03:43:34.857010",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T03:43:49.549616",
+    "user": "llama on",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T03:43:52.924541",
+    "user": "llama on",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T03:44:12.477266",
+    "user": "llama-server start",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T03:49:35.512083",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T03:55:35.781651",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T04:01:38.024581",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T04:07:35.791004",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T04:13:34.867819",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T04:19:34.551117",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T04:25:34.548412",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T04:31:34.566381",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T04:37:34.540877",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T04:43:34.535011",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T04:49:34.540039",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T04:55:34.558889",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T05:00:37.879602",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T05:06:38.142831",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T05:12:34.676647",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T05:18:34.692230",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T05:24:35.346134",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T05:30:34.878852",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T05:36:35.114157",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T05:42:35.664238",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T05:48:34.554609",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T05:54:34.582919",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T06:00:02.253630",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T06:05:34.887823",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T06:11:34.621898",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T06:17:34.577730",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T06:22:56.326756",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T06:28:34.566876",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T06:34:34.596137",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T06:40:10.731141",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T06:45:33.451636",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T06:50:34.598081",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T06:56:34.579094",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T07:02:34.616977",
+    "user": "WATCHDOG | auto",
+    "assistant": "Błąd llama-server: ollama detected"
+  },
+  {
+    "time": "2026-01-07T07:08:47.468614",
+    "user": "WATCHDOG | auto",
+    "assistant": "Tomek, co się dzieje?"
+  },
+  {
+    "time": "2026-01-07T07:14:48.563998",
+    "user": "WATCHDOG | auto",
+    "assistant": "Tomek, mamy problem z llama-serverem. Błąd \"ollama detected\" pojawia się systematycznie.  Coś na tym serverze nie działa poprawnie?"
+  },
+  {
+    "time": "2026-01-07T07:20:49.939759",
+    "user": "WATCHDOG | auto",
+    "assistant": "Tomek, mamy problem z llama-serverem. Błąd \"ollama detected\" pojawia się systematycznie. Coś na tym serverze nie działa poprawnie?"
+  },
+  {
+    "time": "2026-01-07T07:26:46.503159",
+    "user": "WATCHDOG | auto",
+    "assistant": "- co się dzieje?"
+  },
+  {
+    "time": "2026-01-07T07:32:49.314447",
+    "user": "WATCHDOG | auto",
+    "assistant": "Tomek, mamy problem z llama-serverem. Błąd \"ollama detected\" pojawia się systematycznie. Coś na tym serverze nie działa poprawnie?"
+  },
+  {
+    "time": "2026-01-07T07:38:47.263456",
+    "user": "WATCHDOG | auto",
+    "assistant": "Tomek, co się dzieje?"
+  },
+  {
+    "time": "2026-01-07T07:44:49.845997",
+    "user": "WATCHDOG | auto",
+    "assistant": "Tomek, mamy problem z llama-serverem. Błąd \"ollama detected\" pojawia się systematycznie. Coś na tym serverze nie działa poprawnie?"
+  },
+  {
+    "time": "2026-01-07T07:50:49.966636",
+    "user": "WATCHDOG | auto",
+    "assistant": "Tomek, mamy problem z llama-serverem. Błąd \"ollama detected\" pojawia się systematycznie. Coś na tym serverze nie działa poprawnie?"
+  },
+  {
+    "time": "2026-01-07T07:56:49.708997",
+    "user": "WATCHDOG | auto",
+    "assistant": "Tomek, mamy problem z llama-serverem. Błąd \"ollama detected\" pojawia się systematycznie. Coś na tym serverze nie działa poprawnie?"
+  },
+  {
+    "time": "2026-01-07T08:02:49.111717",
+    "user": "WATCHDOG | auto",
+    "assistant": "Tomek, co się dzieje?"
+  },
+  {
+    "time": "2026-01-07T08:08:21.240570",
+    "user": "WATCHDOG | auto",
+    "assistant": "Tomek, mamy problem z llama-serverem. Błąd \"ollama detected\" pojawia się systematycznie. Coś na tym serverze nie działa poprawnie?"
+  }
+]

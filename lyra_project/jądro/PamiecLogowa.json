@@ -1,0 +1,8 @@
+[
+  {
+    "timestamp": "2025-12-30T21:46:00",
+    "zrodlo": "System_Init",
+    "typ": "LOG_DATA",
+    "tresc": "Inicjalizacja modułów jądra: zarzadca_duszy, zarzadca_pamieci."
+  }
+]
